@@ -31,7 +31,6 @@ All ML implementations are in the `/Notebooks` directory.
 | [`n3-logistic-regression-scratch-binary.ipynb`](Notebooks/n3-logistic-regression-scratch-binary.ipynb) | Logistic Regression for Binary Classification from Scratch |
 | [`n4-knn-scratch-2-cat-euclidian-dist.ipynb`](Notebooks/n4-knn-scratch-2-cat-euclidian-dist.ipynb) | K-Nearest Neighbors (KNN) from Scratch using **Euclidean Distance** |
 
-
 ---
 
 ## 🔥 Goals & Progress
@@ -39,6 +38,8 @@ All ML implementations are in the `/Notebooks` directory.
 - **Total Duration**: **75 Days**
 - **Total Hours**: **300 Hours (4 hours/day)**
 - **Objective**: Climb the Kaggle rankings by solving real-world ML problems.
+
+---
 
 ### 📌 **What This Repository Covers**
 ✔️ **Core ML Concepts from Scratch**  
@@ -54,6 +55,7 @@ All ML implementations are in the `/Notebooks` directory.
    git clone https://github.com/Pr0fess0rOP/ML-Scratch_Coding.git
    cd ML-Scratch_Coding
 
+---
 
 ## 📊 Roadmap
 
@@ -78,25 +80,16 @@ This repository will be **progressively updated**. Below is the expected **diffi
 - Stable Diffusion
 - Transformers (BERT, LSTMs)
 - Audio Classification
+- 
 ---
 
 ## 🤝 Contributions
 
 I welcome contributions to improve this repository! You can contribute in the following ways:
 
-### 🔹 Report Issues  
+---
+
+### 🔹 Report Issues (Not functional)  
 - Found a bug or error? Open an **[Issue](https://github.com/ML-Scratch-Coding/issues)** with details.  
 - Suggest an improvement or feature request.
 
-### 🔹 Submit a Pull Request (PR)  
-1. **Fork** the repository.  
-2. Create a **new branch** for your feature or fix:  
-   ```sh
-   git checkout -b feature-name
-3. Make your changes and **commit**:  
-   ```sh
-   git commit -m "Add feature or fix bug"
-4. Push your changes to your fork:  
-   ```sh
-   git push origin feature-name
-5. Open a Pull Request (PR) on the main repository
