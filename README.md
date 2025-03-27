@@ -28,7 +28,7 @@ All ML implementations are in the `/Notebooks` directory.
 | [`n-4-oops-in-python.ipynb`](Notebooks/n-4-oops-in-python.ipynb) | Object-Oriented Programming (OOP) in Python |
 | [`n1-linear-regression-scratch-with-ols.ipynb`](Notebooks/n1-linear-regression-scratch-with-ols.ipynb) | Linear Regression from Scratch using **Ordinary Least Squares (OLS)** |
 | [`n2-linear-regression-scratch-with-gd.ipynb`](Notebooks/n2-linear-regression-scratch-with-gd.ipynb) | Linear Regression from Scratch using **Gradient Descent (GD)** |
-| [`n3-logistic-regression-scratch-binary.ipynb`](Notebooks/n3-logistic-regression-scratch-binary.ipynb) | Logistic Regression for Binary Classification from Scratch |
+| [`n3-logistic-regression-scratch-binary.ipynb`](Notebooks/n3-logistic-regression-scratch-binary.ipynb) | Logistic Regression for Classification from Scratch |
 | [`n4-knn-scratch-2-cat-euclidian-dist.ipynb`](Notebooks/n4-knn-scratch-2-cat-euclidian-dist.ipynb) | K-Nearest Neighbors (KNN) from Scratch using **Euclidean Distance** |
 
 ---
